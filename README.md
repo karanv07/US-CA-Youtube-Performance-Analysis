@@ -33,7 +33,7 @@ This project compares YouTube trending video performance between the United Stat
 ---
 
 ## 🖼 Dashboard Preview
-![US vs CA Dashboard](us_ca_dashboard.png)
+![US vs CA Dashboard](US%20vs%20CA%20Dashboard.png)
 
 ---
 
